@@ -1,0 +1,37 @@
+[
+  {
+    "uuid": "fc16a817-1c40-4ce4-b5a4-7e556140372a",
+    "first_name": "אברהם",
+    "last_name": "יוסף",
+    "id_number": "890196710",
+    "profession": "דייל אויר"
+  },
+  {
+    "uuid": "ac5c54e6-4d97-4d7e-148b-afd420fa2917",
+    "first_name": "נבו",
+    "last_name": "עובדיה",
+    "id_number": "899970305",
+    "profession": "מנהל משרד"
+  },
+  {
+    "uuid": "8c2feb0f-f2bf-41c9-8372-7f15b98de65e",
+    "first_name": "סיגלית",
+    "last_name": "ששון",
+    "id_number": "822744405",
+    "profession": "רכזת אבטחה"
+  },
+  {
+    "uuid": "d8439d96-11bd-460b-33db-3fe457440efc",
+    "first_name": "משה",
+    "last_name": "טל",
+    "id_number": "844543165",
+    "profession": "קצין רכב"
+  },
+  {
+    "uuid": "b60a7dfc-5890-4296-8d4a-cfcb0dc35768",
+    "first_name": "נמרוד",
+    "last_name": "קליין",
+    "id_number": "827230327",
+    "profession": "חשב שכר"
+  }
+]
